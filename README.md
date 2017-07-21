@@ -15,3 +15,6 @@ Clone this repo first.
 ```
 
 Navigate to localhost:8080 in your web browser
+
+### TODO
+Add styling to player and playlist
