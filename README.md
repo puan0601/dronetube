@@ -1,25 +1,17 @@
-# ReduxSimpleStarter
+# DroneTube
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A clone of YouTube with a focus on Drone videos. Quickly search and view results in real-time without using the bulky YouTube search.
 
-### Getting Started
 
-There are two methods for getting started with this repo.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+## Getting Started
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Clone this repo first.
 
 ```
 > npm install
 > npm start
 ```
+
+Navigate to localhost:8080 in your web browser
